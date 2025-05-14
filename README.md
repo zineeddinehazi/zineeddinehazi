@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Zine Eddine HAZI
+A passionate Front End Developer from ALgeria
 
-<!--
-**zineeddinehazi/zineeddinehazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
+- 🌱 I’m currently learning React and TypeScript
+- 🔭 I’m working on a portfolio site and open-source projects
+- 💬 Ask me about anything JavaScript-related!
+- 📫 Reach me at hazizineeddinesofiane@gmail.com
 
-Here are some ideas to get you started:
+## 🌐 Connect with me:
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/xiiniius)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+
+## 📊 GitHub Stats:
+![Zine Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=zineeddinehazi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdoe&layout=compact)
+
