@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zine Eddine HAZI
-A passionate Front End Developer from ALgeria
+A passionate Front End Developer from Algeria
 
 ## 💫 About Me:
 - 🌱 I’m currently learning React and TypeScript
