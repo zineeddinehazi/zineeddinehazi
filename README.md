@@ -16,7 +16,7 @@ A passionate Front End Developer from Algeria
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Next.js]((https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js Logo](https://raw.githubusercontent.com/vercel/next.js/canary/examples/app-playground/public/vercel.svg)
 
 ## 📊 GitHub Stats:
 ![Zine Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=zineeddinehazi&show_icons=true&theme=tokyonight)
