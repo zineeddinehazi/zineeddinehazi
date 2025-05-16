@@ -9,6 +9,10 @@ A passionate Front End Developer from Algeria
 
 ## 🌐 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/xiiniius)
+[![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white)](https://instagram.com/xiiniius)
+[![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white)](https://t.me/zineeddinesofiane)
+
+
 
 ## 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
