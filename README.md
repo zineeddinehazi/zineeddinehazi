@@ -8,7 +8,7 @@ A passionate Front End Developer from Algeria
 - 📫 Reach me at hazizineeddinesofiane@gmail.com
 
 ## 🌐 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/xiiniius)
+[![X](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/xiiniius)
 [![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white)](https://instagram.com/xiiniius)
 [![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white)](https://t.me/zineeddinesofiane)
 
