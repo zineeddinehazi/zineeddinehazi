@@ -25,7 +25,7 @@
 
 - 🎓 Telecommunications Engineer; Master's degree (M2) from IGEE, now working at the intersection of networks and software
 - 🔧 Building backend services in **Go** (Gin, PostgreSQL) and exploring **Rust** for systems-level and performance-critical work
-- 🖥️ Designing **CLI** tools and **TUI** applications — interested in ergonomic, fast, keyboard-driven interfaces
+- 🖥️ Designing **CLI** tools and **TUI** applications; Interested in ergonomic, fast, keyboard-driven interfaces
 - 📦 Shipping open-source projects and iterating on a personal portfolio
 - 💬 Open to discussing Go, Rust, backend architecture, or terminal-based tooling
 
